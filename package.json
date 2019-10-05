@@ -1,0 +1,14 @@
+{
+  "name": "qreenmen",
+  "version": "0.0.1",
+  "description": "qreenmen sunucusuna ait bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "EmirhanOnuk",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
